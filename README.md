@@ -11,6 +11,6 @@ https://github.com/BAKAOLC/RitsukageBot/blob/8d7a35202ad2ad5072a3a8cf8d2155e3870
 
 
 # 命令
-/弹幕姬 subscribe <房间号>
-/弹幕姬 disconnect <房间号>
-/弹幕姬 list
+/弹幕姬 subscribe <房间号>  
+/弹幕姬 disconnect <房间号>  
+/弹幕姬 list  
